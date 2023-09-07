@@ -1,24 +1,11 @@
-# GraduationProject
+## 简介
 
-#### 介绍
-Java 毕业设计，小程序毕业设计
+> 博主介绍：✌程序员徐师兄、7年大厂程序员经历。全网粉丝30W+、csdn博客专家、掘金/华为云/阿里云/InfoQ等平台优质作者、专注于Java技术领域和毕业项目实战✌
 
-> 个人简介：7 年大厂程序员经历，擅长Java、微信小程序、Python、Android等，大家有这一块的问题可以一起交流！
-> javaweb，ssh，ssm，springboot等等项目框架，源码丰富，欢迎咨询。学习资料、程序开发、技术解答、代码讲解、文档报告，需要请联系 xiaoxu_9411
+> 7 年大厂程序员经历，擅长Java、微信小程序、Python、Android等，大家有这一块的问题可以一起交流！
+> javaweb，ssh，ssm，springboot等等项目框架，源码丰富，欢迎咨询。学习资料、程序开发、技术解答、代码讲解、文档报告，需要请联系 xiaoxu_9411, [更多介绍请点击这里](https://note.youdao.com/s/ThTtAeKy)
 
-该项目主要各种计算机毕业设计，包括 Java 毕业设计，Python 毕业设计，小程序等。
-
-[微信小程序毕业设计项目合集](https://it1314.top/article/583/)
-
-[Java毕业设计-SpringBoot+Vue毕业设计项目合集](https://it1314.top/article/41/)
-
-[Java毕业设计-Java SSM+JSP 项目合集](https://it1314.top/article/584/)
-
-[Java毕业设计-Java JSP 项目合集](https://it1314.top/article/585/)
-
-[Android 毕业设计-项目合集](https://it1314.top/article/616/)
-
-[Python 毕业设计合集](https://it1314.top/article/615/)
+![](https://gitlab.com/gdutxiaoxu/blog-pic/raw/main/gitlab/202308311808-5332.png)
 
 
 ## 第一部分
